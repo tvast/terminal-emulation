@@ -4,39 +4,76 @@
     <meta charset="UTF-8">
     <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Titre du document</title>
-    <!-- <link rel="stylesheet" href="css/knacss.css" media="all">
-    <link rel="stylesheet" href="css/styles.css" media="all"> -->
-    <link href="http://fonts.googleapis.com/css?family=VT323" rel="stylesheet" type="text/css">
+    <title>lettremiroir</title>
+    <link rel="stylesheet" type="text/css" href="css/stylesWindow.css">
      
   </head>
   <body>
-  <h1>Intro</h1>
-  <h2>Le choeur</h2>
-  <p>"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"</p>
-
-  <button onclick="myFunction()" id="myBtn" >start</button>
-
-   <script type="text/javascript">
-      /*function loadTerminal () {
-        document.getElementById("myBtn").addEventListener("click", myFunction());
-      }*/
-
-  function myFunction() {
-
-    console.log("hello");
-
-    var win = window.open("", "myWindow", "width=500,height=100");
-win.document.write('<html><head><title>Print it!</title><link rel="stylesheet" type="text/css" href="stylesWindow.css"></head><body><div id="content"><div id="wargames"><pre><code>GREETINGS PROFESSOR FALKEN.Hello.HOW ARE YOU FEELING TODAY?Im fine. How are you?EXCELLENT. ITS BEEN A LONG TIME. CAN YOU EXPLAIN THE REMOVAL OF YOUR USER ACCOUNT ON JUNE 23RD, 1973?People sometimes make mistakes.YES THEY DO. SHALL WE PLAY A GAME?Love to. How about Global Thermonuclear War?WOULDNT YOU PREFER A GOOD GAME OF CHESS?Later. Right now lets play Global Thermonuclear War.FINE.</pre></code></p>"');
-win.document.write('</body></html>');
-
     
-  }
+ <!--  <p>Bonjour</p>
+  <p>Vous êtes convoqué en partie civile pour le jugement du denommé azerty.</p> 
+  <p>Ce jugement est particulier car le coupable est poursuivis pour un crime contre l'humanité.</p> 
+  <p>Et ce crime a nécéssité l'utilisation d'un procédé technologique unique faceà l'horreur des actions du coupable.</p> 
+  <p>Il sera donc convoqué par transcendance et vous assisterez à son jugement sur internet.</p>
+<p>Vous pourrez commentez et partager votre avis à la fi</p> -->
 
-    
+<span class="element"></span>
+<span id="typed">|</span>
 
-  </script>
 
 
+<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc=" crossorigin="anonymous"></script>
+<script src="js/js/typed.js"></script>
+<script>
+    $(function(){
+        $(".element").typed({
+            strings: [
+            "Bonjour",
+             "Vous êtes convoqué en partie civile pour le jugement du denommé azerty.",
+             "Ce jugement est particulier car le coupable est poursuivis pour un crime contre l'humanité.",
+             "Et ce crime a nécéssité l'utilisation d'un procédé technologique unique faceà l'horreur des actions du coupable.",
+             "Il sera donc convoqué par transcendance et vous assisterez à son jugement sur internet.",
+             "Vous pourrez commentez et partager votre avis à la fin"
+             
+
+             ],
+            // Optionally use an HTML element to grab strings from (must wrap each string in a <p>)
+            stringsElement: null,
+            // typing speed
+            typeSpeed: 0,
+            // time before typing starts
+            startDelay: 0,
+            // backspacing speed
+            backSpeed: 0,
+            // shuffle the strings
+               shuffle: false,
+            // time before backspacing
+            backDelay: 500,
+            // loop
+            loop: false,
+            // false = infinite
+            loopCount: false,
+            // show cursor
+            showCursor: true,
+            // character for cursor
+            cursorChar: "|",
+            // attribute to type (null == text)
+            attr: null,
+            // either html or text
+            contentType: 'html',
+            // call when done callback function
+            callback: function() {},
+            // starting callback function before each string
+            preStringTyped: function() {},
+            //callback for every typed string
+            onStringTyped: function() {},
+            // callback for reset
+            resetCallback: function() {}
+        });
+    });
+</script>
+
+
+</script>
   </body>
 </html>
