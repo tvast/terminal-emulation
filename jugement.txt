@@ -1,0 +1,432 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<!-- saved from url=(0106)http://www.acbm.com/olivier-aichelbaum/fcsv/20031112-tribunal-correctionnel-meaux-id-adequat-alphasys.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-15">
+  
+  <meta name="keywords" content="abus, biens, sociaux, fausse, facture, banqueroute, detournement, condamnation, jugement, tribunal, correctionnel, instance">
+  <meta name="expires" content="never">
+  <meta name="rating" content="general">
+  <meta name="ROBOTS" content="all | follow | index">
+  <meta name="revisit-after" content="14">
+  <title>JUGEMENT DU 12 NOVEMBRE 2003 - TRIBUNAL CORRECTIONNEL DE MEAUX</title>
+  <style type="text/css">
+body {
+margin-left: 10%;
+margin-right: 10%;
+}
+.encadre {
+  margin-left: 10%;
+  margin-right: 10%;
+  border-style: solid;
+  border-width: thin;  
+}
+  </style>
+  <style ="font-weight:="" bold;"=""></style>
+</head>
+<body>
+<!-- 
+<div style="text-align: left;"><span style="font-weight: bold;">Encadré
+issu de l'</span><a style="font-weight: bold;"
+ href="http://www.acbm.com/olivier-aichelbaum/fcsv.html" target="_blank">article</a><span
+ style="font-weight: bold;">
+paru dans </span><a style="font-weight: bold;"
+ href="http://www.acbm.com/virus/num_26/" target="_blank">Le
+Virus
+Informatique 26</a><span style="font-weight: bold;"> (Juin 2004)</span><br>
+</div>
+-->
+<div style="text-align: center;"><span style="font-weight: bold;">TRIBUNAL
+DE GRANDE INSTANCE DE MEAUX</span><br>
+<br>
+<span style="font-style: italic;">3 ème CHAMBRE</span><br>
+<br>
+<span style="font-weight: bold;">JUGEMENT CORRECTIONNEL DU 12 NOVEMBRE
+2003</span><br>
+</div>
+<br>
+<span style="font-weight: bold;">CONTRADICTOIRE</span><br>
+<br>
+N° de Jugement : CM-4848 <br>
+N° de Parquet : 016495<br>
+<br>
+Le <span style="font-weight: bold;">TRIBUNAL CORRECTIONNEL</span>, en
+son audience publique tenue au Palais de Justice de <span style="font-weight: bold;">MEAUX</span> le DOUZE NOVEMBRE DEUX MILLE
+TROIS<br>
+<br>
+composé, lors des débats ayant eu lieu le 23 octobre 2003 et du
+délibéré qui s&#8217;ensuivit de<br>
+<br>
+Président&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Monsieur
+REVEL, vice-président,<br>
+assesseurs :&nbsp;&nbsp;&nbsp;&nbsp; Madame BAILET, vice-président, <br>
+Monsieur de GARATE. Juge,<br>
+<br>
+assisté, au cours des débats de Mademoiselle FANTON, Greffier, et au
+prononcé du jugement de Mademoiselle JOURNET, Greffier,<br>
+<br>
+en présence, lors des débats de Monsieur DEMORY, Procureur de la
+République Adjoint, et au prononcé du jugement de Madame DURANTON,
+substitut du procureur de la République,<br>
+<br>
+a rendu le présent jugement dans l&#8217;affaire<br>
+<br>
+<span style="font-weight: bold;">ENTRE :</span><br>
+<br>
+Monsieur le <span style="font-weight: bold;">procureur de la République</span>,
+près le Tribunal de Grande Instance de <span style="font-weight: bold;">Meaux</span>,
+demandeur et poursuivant,<br>
+<br>
+<span style="font-weight: bold;">LA&nbsp; SCP Jean-Pierre PERNAY &amp;
+Philippe&nbsp; ANGEL</span>,&nbsp; société de mandataires de justice,
+inscrite au RCS de Meaux sous le N° D 404 425 126 dont le siège est
+49/51 Avenue du Pdt Salvador Allendé 77109 MEAUX Cedex,<br>
+<br>
+agissant ès-qualités de liquidateur judiciaire de la SA "INFORMATIQUE
+et DEVELOPPEMENT (ID)" exerçant sous l&#8217;enseigne "ADEQUAT" dont le siége
+social était sis Parc Aux Vignes 23 Allée des Vendanges 77183 <br>
+<br>
+<hr>
+<div style="text-align: center;">- 2 -<br>
+</div>
+<br>
+Croissy Beaubourg en vertu d&#8217;un jugement du Tribunal de Commerce de
+Meaux en date du 4 décembre 2000 ;<br>
+<br>
+partie civile constituée par l&#8217;intermédiaire d&#8217;un avocat à l&#8217;audience,
+non comparante, représentée par Maître LA BURTHE Avocat au barreau de
+MEAUX<br>
+<br>
+<span style="font-weight: bold;">ET :</span><br>
+<br>
+Nom : <span style="font-weight: bold;">J******** Jean Marc</span><br>
+Date de naissance : **/**/1961<br>
+Lieu de naissance : 94 VITRY SUR SEINE<br>
+Filiation : de J******** Jean et de R******** Jeanine<br>
+Nationalité : FRANÇAISE<br>
+Demeurant : ************************ 77174 VILLENEUVE SAINT DENIS<br>
+Situation familiale :<br>
+Profession :<br>
+<br>
+Jamais condamné, libre<br>
+<br>
+Comparant à l&#8217;audience, en personne<br>
+<br>
+Prévenu de ;<br>
+- ABUS DES BIENS OU DU CREDIT D&#8217;UNE SOCIETE PAR ACTIONS PAR UN
+DIRIGEANT A DES FINS PERSONNELLES<br>
+- BANQUEROUTE - DETOURNEMENT OU DISSIMULATION DE TOUT OU PARTIE DE
+L&#8217;ACTIF<br>
+<br>
+<span style="font-style: italic; font-weight: bold;">Déroulement des
+débats</span><br>
+<br>
+L&#8217;affaire a été appelée à l&#8217;audience du 23 octobre 2003 ;<br>
+<br>
+A cette audience et à l&#8217;appel de la cause, le Président a constaté la
+présence et l&#8217;identité du prévenu, puis a donné connaissance de l&#8217;acte
+saisissant le Tribunal ;<br>
+<br>
+Maître LA BURTHE Avocat au barreau de MEAUX, a déclaré se constituer
+partie civile au nom de la SCP PERNAY-ANGEL agissant en sa qualité de
+mandataire liquidateur de la SA Informatique et Développement et a
+déposé des conclusions dûment visées et jointes au dossier ;<br>
+<br>
+<hr>
+<div style="text-align: center;">- 3 - <br>
+</div>
+<br>
+Le prévenu a répondu aux questions du Tribunal ;<br>
+<br>
+La partie civile a exposé ses demandes et arguments ;<br>
+<br>
+Le représentant du Ministère Public a pris ses réquisitions orales ;<br>
+<br>
+Le prévenu a présenté ses moyens de défense ayant eu la parole en
+dernier ;<br>
+<br>
+Le Greffier a tenu note du déroulement des débats ;<br>
+<br>
+A l&#8217;issue des débats, le Président a averti les parties présentes que
+le jugement serait prononcé le 12 novembre 2003 à 13 heures 30 ;<br>
+<br>
+Ce jour, après que le Tribunal en ait délibéré selon les formes
+légales, il a été donné lecture en audience publique du jugement dont
+la teneur suit par l&#8217;un des magistrats ayant assisté aux débats et
+participé au délibéré ;<br>
+<br>
+<div style="text-align: center;"><span style="text-decoration: underline; font-weight: bold;">LE TRIBUNAL</span><br>
+</div>
+<br>
+Attendu que J******** Jean Marc a été personnellement cité pour
+comparaître à l&#8217;audience du 23 octobre 2003 par procès verbal de
+convocation en justice qui lui a été notifié le 18 Juillet 2003 par un
+Officier ou Agent de Police Judiciaire agissant sur instructions du
+Procureur de la République, en application de l&#8217;article 390-1 du Code
+de procédure pénale ; que la citation est régulière en la forme ;<br>
+<br>
+<span style="text-decoration: underline;">Attendu que </span><span style="font-weight: bold; text-decoration: underline;">J******** Jean
+Marc</span><span style="text-decoration: underline;"> est prévenu :</span><br>
+<br>
+d&#8217;avoir à CROISSY BEAUBOURG entre le 30 mai 1995 et le 31 mars 2000,
+étant Président du Conseil d&#8217;Administration de la SA INFORMATIQUE ET
+DEVELOPPEMENT, fait, de mauvaise foi, des biens ou du crédit de cette
+société, un usage contraire à l&#8217;intérêt de celle-ci,<br>
+soit à des fins personnelles, soit pour favoriser une autre société ou
+entreprise dans laquelle il était intéressé, en l&#8217;espèce :<br>
+- en annulant, le 31/03/1999, par l&#8217;enregistrement comptable d&#8217;une
+facture non causée d&#8217;un montant de 214373 euros, la dette d&#8217;une
+ALPHASYS EURL envers son associé unique la SA&nbsp;&nbsp; INFORMATIQUE
+ET DEVELOPPEMENT, constituée par des avances en compte courant pour<br>
+un montant de 85 442,80 euros et par des frais de constitution pour 99
+681,99 euros<br>
+- en versant le 05/09/1995, la somme de 24 391,84 euros par chèque
+bancaire de la société INFORMATIQUE ET DEVELOPPEMENT dans le<br>
+<br>
+<hr>
+<div style="text-align: center;">- 4 -<br>
+</div>
+<br>
+cadre de la signature en son nom personnel d&#8217;une promesse de vente
+immobilière, prélèvement masque en comptabilité par un enregistrement
+en "avance fournisseur"<br>
+- pour avoir fait régler par la SA INFORMATIQUE ET DEVELOPPEMENT, en
+l&#8217;absence de convention ou d&#8217;autorisation du conseil d&#8217;administration,
+le loyer d&#8217;un logement personnel du 10/07/1995 au 31/10/1998 pour un
+montant mensuel de 1067,14 euros et pour avoir remis, le 30/05/1995,
+pour le même logement, au titre de caution, un chèque de la SA
+INFORMATIQUE ET DEVELOPPEMENT de 2 134,29 euros"<br>
+- pour avoir fait supporter par la SA INFORMATIQUE ET DEVELOPPEMENT du
+01/10/1998 au 31/03/2000 un loyer mensuel de 1 484,47 euros à la SCI
+MAGELLAN dans laquelle il était associé et qui avait été créée pour
+acquérir sa résidence principale<br>
+faits prévus par ART. L. 242-6 3°, ART. L. 242-30, ART. L. 243-1, ART.
+L. 244-1, ART. L. 246-2 C. COMMERCE et réprimés par ART. L. 242-6 C.
+COMMERCE<br>
+<br>
+de s&#8217;être à CROISSY BEAUBOURG le 4 décembre 2000, ayant dirigé ou
+liquidé une personne morale de droit privé ayant une activité
+économique, directement ou indirectement, en droit ou en fait, rendu
+coupable du délit de banqueroute, à l&#8217;occasion de l&#8217;ouverture d&#8217;une
+procédure de liquidation judiciaire en ayant tenu une comptabilité
+incomplète ou irrégulière en l&#8217;espèce :<br>
+- en comptabilisant une facture non causée de l&#8217;EURL ALPHASYS dont il
+était le dirigeant pour un montant de 214 373 euros en date du
+31/03/1999<br>
+- en enregistrant faussement un prélèvement personnel de 24 391,84
+euros par une écriture dans un compte "fournisseur-avance sur commande"
+; faits prévus et réprimés par les articles 131 -5 et 131 -6 et
+suivants du Code Pénal. faits prévus par ART. L. 626-2 2°, ART. L.
+626-1, ART. L. 626-3 C. COMMERCE et réprimés par ART. L. 626-3 AL. 1,
+ART. L. 626-5, ART L. 626-6: ART. L. 625-8 AL. 1 C. COMMERCE<br>
+<br>
+<br>
+<span style="font-weight: bold;">SUR L&#8217;ACTION PUBLIQUE</span><br>
+<br>
+Attendu que J******** Jean-Marc, en sa qualité de président du conseil
+d&#8217;administration, était au temps de la prévention le dirigeant de droit
+comme de fait de la Société Anonyme INFORMATIQUE ET DEVELOPPEMENT (ID)
+au capital de 500.000 francs, laquelle avait son siège social 23 allée
+des Vendanges à Croissy Beaubourg (77) ;<br>
+<br>
+Que cette société dont l&#8217;activité principale consistait à vendre des
+logiciels et principalement un antivirus FPROT représentant 90% du
+chiffre d&#8217;affaires, a fait l&#8217;objet d&#8217;une liquidation judiciaire
+prononcée le 4<br>
+<br>
+<hr>
+<div style="text-align: center;">- 5 -<br>
+</div>
+<br>
+décembre 2000 par le Tribunal de Commerce de Meaux sur assignation de
+l&#8217;URSSAF ;<br>
+<br>
+Attendu que la société ID a connu des difficultés financières dès 1995
+avec des fournisseurs et la société de factoring FACTO FRANCE HELLER ;<br>
+<br>
+Qu&#8217;elle avait notamment en fin d&#8217;année 1995 une dette supérieure à 1.6
+million de francs envers la société DATA FELLOWS, fournisseur du
+logiciel FSECURE, cette dette ayant une importance non seulement pour
+la trésorerie mais également en terme de politique de gestion dans la
+mesure où ce fournisseur assurait la quasi-totalité du chiffre
+d&#8217;affaires d&#8217;ID ;<br>
+<br>
+Qu&#8217;avec le soutien de ce partenaire et grâce à une conjoncture
+favorable, la société a poursuivi son exploitation jusqu&#8217;à la
+liquidation judiciaire fin 2000 ;<br>
+<br>
+Qu&#8217;il apparaît à la lecture des bilans, une incapacité virtuelle à ne
+plus pouvoir faire face au passif exigible au 31 décembre 1997 et qu&#8217;à
+partir des comptes clos au 31 mars 1999 cette société générait des
+pertes se montant à 228.057 Frs pour l&#8217;exercice 1998-1999 et l.584.586
+Frs au 3l mars 2000<br>
+<br>
+Qu&#8217;il convient de fixer la date de cessation des paiements au 30
+novembre 1999, date à laquelle surviennent les premiers impayés
+significatifs ;<br>
+<br>
+Attendu que l&#8217;enquête et les débats ont révélé que dans le même temps
+le prévenu s&#8217;est octroyé des avantages personnels :<br>
+- dès l995 il a émis un chèque de 160.000 Frs depuis le compte ID vers
+Mr Z********, réglant de la sorte la conclusion d&#8217;une promesse de vente
+signée en son nom personnel au moyen de la trésorerie de la société ID.
+Cette somme a été cachée en comptabilité comme étant une avance
+fournisseur FIDART ;<br>
+- par la suite il a tait supporter de façon indue à sa société le
+règlement de loyers, à raison de 9500 Frs par mois, au bénéfice de la
+SCI MAGELLAN dont il était porteur de parts avec son épouse. Celle SCI
+constituait sa résidence principale pour laquelle les remboursements
+d&#8217;emprunt correspondaient au montant du loyer supporté par ID. Les
+loyers ont ainsi été réglés du 1er octobre 1998 au 31 mars 2000 soit un
+préjudice de 200.000 francs environ. Il convient de préciser que 3500
+Frs mensuels étaient comptabilisés sur la feuille de paie de J********
+Jean-Marc en avantage en nature et que celui-ci n&#8217;a jamais rapporté le
+moindre commencement de preuve réelle et sérieuse d&#8217;une utilisation
+alléguée de son domicile conforme aux intérêts de la société ID ;<br>
+<br>
+<hr>
+<div style="text-align: center;">- 6 -<br>
+</div>
+<br>
+- le paiement d&#8217;une facture de 1.4 millions de francs à la société
+ALPHASYS est venue indûment appauvrir les comptes de la société ID le
+31 mars 1999. ALPHASYS,&nbsp; EURL ayant comme associé unique la SA ID,
+avait été créée apparemment pour rechercher de nouveaux produits. Ses
+frais de constitution et de fonctionnement ont été supportés par ID et
+le prévenu lui-même a reconnu que la facture critiquée n&#8217;avait aucun
+fondement. En effet le chiffre d&#8217;affaire d&#8217;ALPHASYS était nul et si ID
+avait conclu avec l&#8217;EURL une convention de prêt de main d&#8217;oeuvre, dite
+à but non lucratif (sic), aux termes de laquelle Monsieur C******,
+unique salarié d&#8217;ALPHASYS, devait rechercher de nouveaux produits pour
+le compte de la société ID, il s&#8217;avère qu&#8217;entendu sur ce point Monsieur
+C****** a indiqué n&#8217;avoir pas du tout travaillé pour le compte de la
+Société 1D mais oeuvrer au lancement pour acompte d&#8217;ALPHASYS d&#8217;un
+produit de sécurité à domicile dit "REX". II s&#8217;ensuit que l&#8217;émission de
+la facture litigieuse n&#8217;a eu d&#8217;autre objet que de permettre d&#8217;apurer la
+situation débitrice de la société ALPHASYS et de favoriser sa vente le
+24 novembre 2000 à un groupe danois VENTURE 2000 au vu d&#8217;une situation
+comptable faussement saine. Pour preuve supplémentaire du caractère
+fictif de la facture incriminée, le Tribunal note que le liquidateur
+judiciaire de la société ID a obtenu un dédommagement de 800.000 Frs
+auprès de VENTURE 2000 ;<br>
+<br>
+Attendu qu&#8217;il est rapporté la preuve certaine et suffisante, en l&#8217;état
+des éléments du dossier et des débats, que le prévenu J******** Jean
+Marc a bien commis les faits qui lui sont reprochés, lesquels
+caractérisent le délit d&#8217;abus des biens sociaux pour ceux survenus
+avant le 30 novembre 1999 et le délit de banqueroute pour ceux survenus
+depuis cette date ; Que sous réserve des requalifications partielles
+qu&#8217;impose cette distinction chronologique, la prévention est bien
+fondée et en conséquence il convient de le déclarer coupable et de lui
+faire application de la loi pénale ;<br>
+<br>
+Que la peine détaillée dans le dispositif du présent jugement apparaît
+être la sanction appropriée aux circonstances dans lesquelles les
+infractions ont été commises et à la personnalité de leur auteur, telle
+qu&#8217;elle ressort du dossier ou qu&#8217;il l&#8217;a révélée à l&#8217;audience ;<br>
+<br>
+Que la gravite et la multiciplicité des détournements relevés
+commandent de prononcer la faillite personnelle du dirigeant indélicat
+de la Société ID ;<br>
+<br>
+<hr>
+<div style="text-align: center;">- 7 -<br>
+</div>
+<br>
+<span style="font-weight: bold;">SUR L&#8217;ACTION CIVILE</span><br>
+<br>
+Concernant la constitution de partie civile de la SCP PERNAY-ANGEL<br>
+<br>
+Attendu que la SCP PERNAY-ANGEL agissant en sa qualité de mandataire
+liquidateur de la SARL Informatique et Développement se constitue
+régulièrement partie civile et sollicite la somme de 283.626,69 € à
+titre de dommages et intérêts selon le détail exposé dans ses
+conclusions, ainsi qu&#8217;une indemnité de 1200 € sur le fondement de
+l&#8217;article 475-1 du code de procédure pénale ;<br>
+<br>
+Sur ce,<br>
+<br>
+Attendu qu&#8217;en l&#8217;absence d&#8217;une quelconque cause de réduction ou
+d&#8217;exclusion de son droit à indemnisation, la partie civile précitée
+peut être reçue en son action et légitimement prétendre à un entier
+dédommagement des préjudices trouvant leur source dans la faute pénale
+commise par le prévenu ;<br>
+<br>
+Attendu qu&#8217;au vu des informations résultant du dossier, des
+justifications produites et des explications fournies, le Tribunal
+dispose d&#8217;éléments d&#8217;appréciation suffisants pour fixer à la somme de
+283.626,69 € le montant des dommages et intérêts assurant la réparation
+intégrale du dommage réellement causé par l&#8217;infraction ;<br>
+<br>
+Qu&#8217;il est équitable, par ailleurs, que soit versée à cette même partie
+civile une somme de 1200 € pour les dépenses qu&#8217;elle est contrainte
+d&#8217;engager afin de faire valoir ses droits et qui ne seront ni
+supportées par l&#8217;Etat, un assureur ou tout autre organisme, ni prises
+en compte dans le calcul des dépens de l&#8217;action civile devant être mis
+à la charge du condamné ;<br>
+<br>
+<br>
+<div style="text-align: center;"><span style="font-weight: bold;">PAR
+CES MOTIFS</span><br>
+</div>
+<br>
+<span style="font-weight: bold;">SUR L&#8217;ACTION PUBLIQUE</span><br>
+<br>
+Statuant publiquement, en premier ressort et par jugement <span style="font-weight: bold;">contradictoire</span>, à l&#8217;égard de <span style="font-weight: bold;">J******** Jean Marc</span> ;<br>
+<br>
+Déclare <span style="font-weight: bold;">J******** Jean Marc</span>
+coupable des faits qui fui sont reprochés.<br>
+<br>
+<hr>
+<div style="text-align: center;">- 8 -<br>
+</div>
+<br>
+<span style="text-decoration: underline;">Condamne </span><span style="font-weight: bold; text-decoration: underline;">J******** Jean
+Marc</span><span style="text-decoration: underline;"> :</span><br>
+<br>
+à la peine de <span style="font-weight: bold;">18 mois d&#8217;EMPRISONNEMENT</span>
+avec <span style="font-weight: bold;">SURSIS</span> ;<br>
+<br>
+Prononce sa faillite personnelle à titre de peine complémentaire ;<br>
+<br>
+<span style="font-weight: bold;">pour l&#8217;infraction de</span> ABUS DES
+BIENS OU DU CREDIT D&#8217;UNE SOCIETE&nbsp; PAR ACTIONS&nbsp; PAR&nbsp; UN
+DIRIGEANT&nbsp; A DES FINS PERSONNELLES<br>
+<span style="font-weight: bold;">pour&nbsp; l&#8217;infraction&nbsp; de</span>
+BANQUEROUTE :&nbsp; DETOURNEMENT&nbsp; OU DISSIMULATION DE TOUT OU
+PARTIE DE L&#8217;ACTIF<br>
+<br>
+<span style="font-style: italic;">En raison de son absence constatée
+lors du prononcé du jugement, le Président n&#8217;a pas pu donner au
+condamné l&#8217;avertissement prévu par l&#8217;article 132-29 du Code pénal,
+l&#8217;avisant notamment que s&#8217;il commet une nouvelle infraction, il pourra
+faire l&#8217;objet d&#8217;une nouvelle condamnation qui sera susceptible
+d&#8217;entraîner l&#8217;exécution de la première condamnation sans confusion avec
+la seconde et qu&#8217;il encourra les peines aggravées de la récidive dans
+les termes des articles 132-35 et 132-37 du Code pénal ;</span><br>
+<br>
+<span style="font-weight: bold;">SUR L&#8217;ACTION CIVILE</span><br>
+<br>
+Reçoit la SCP PERNAY-ANGEL agissant en sa qualité de mandataire
+liquidateur de la SA Informatique et Développement en sa constitution
+de partie civile ;<br>
+<br>
+Condamne J******** Jean Marc à lui payer :<br>
+<br>
+- la somme de 283.626,69 Euros à titre de dommages et intérêts ;<br>
+<br>
+- la somme de 1.200,00 Euros en application de l&#8217;article 475-1 du code
+de procédure pénale ;<br>
+<br>
+Le condamne en outre aux dépens de l&#8217;action civile ;<br>
+<br>
+La présente décision est assujettie à un droit fixe de procédure d&#8217;un
+montant de <span style="font-weight: bold;">quatre vingt dix euros</span>
+(90 Euros) dont est redevable chaque condamné.<br>
+<br>
+Et le présent jugement a été signé par le Président et le Greffier. <br>
+<br>
+LE GREFFIER,<br>
+LE PRESIDENT,<br>
+<br>
+
+
+<div></div></body></html>
