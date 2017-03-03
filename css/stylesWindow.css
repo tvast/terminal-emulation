@@ -7,6 +7,13 @@
 body{
   background: #000;
   padding-top: 10px;
+  color: lime; 
+  font-family: "Courier";
+  font-size: 12px;
+  margin: 10px 0 0 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 30em;
 } 
 
 .element{
