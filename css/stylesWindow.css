@@ -4,6 +4,22 @@
   color: green;
 }*/
 
+body{
+  background: #000;
+  padding-top: 10px;
+} 
+
+.element{
+  color: lime; 
+  font-family: "Courier";
+  font-size: 12px;
+  margin: 10px 0 0 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 30em;
+  animation: type 4s steps(60, end); 
+}
+
 .typed-cursor{
     opacity: 1;
     -webkit-animation: blink 0.7s infinite;
